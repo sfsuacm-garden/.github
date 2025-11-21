@@ -32,7 +32,7 @@ Go to the original project’s repository and open a new Pull Request (PR) from 
 
 After submitting, engage in any feedback discussions to refine your contribution until it’s ready to merge.
 
-![Screenshot 2025-11-21 at 1.55.00 PM.png](https://sfsu-acm.notion.site/image/attachment%3Ae987a5bc-f2ec-467f-a840-1c678988fbb3%3AScreenshot_2025-11-21_at_1.27.20_PM.png?table=block&id=2b298c26-0514-8089-ba05-ea7e524abf4a&spaceId=28abc2c8-6203-499f-b5d9-a220b4210bf2&width=1420&userId=&cache=v2)
+![Screenshot 2025-11-21 at 1.55.00 PM.png](https://sfsu-acm.notion.site/image/attachment%3A6015259a-976e-4f64-bd5f-d70b5a459092%3AScreenshot_2025-11-21_at_1.55.00_PM.png?table=block&id=2b298c26-0514-804e-943c-c47798e3e42c&spaceId=28abc2c8-6203-499f-b5d9-a220b4210bf2&width=1420&userId=&cache=v2)
 
 ## 6. Respond to feedback and iterate.
 
