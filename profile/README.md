@@ -2,6 +2,8 @@
 
 disclaimer: this is a new project we are taking on. nobody is a pro but nobody is a noob so if you have ideas on how to improve any of this, LETS DO IT.
 
+
+firstly, [why join (a brief mini-rant from a fellow mad gardener)](https://github.com/sfsuacm-garden/.github/blob/main/profile/whyjoin.md)
 **how do you get started coding**
 
 ## **1. Choose a project you're interested in [here](https://github.com/orgs/sfsuacm-space/repositories).**
