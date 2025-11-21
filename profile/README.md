@@ -3,8 +3,6 @@
 > [!NOTE]
 >this is a new project we are taking on. nobody is a pro but nobody is a noob so if you have ideas on how to improve any of this, let us know. To understand why we are here [read this (a brief mini-rant from a fellow mad gardener)](https://github.com/sfsuacm-garden/.github/blob/main/profile/whyjoin.md)
 
-**how do you get started coding**
-
 ## **1. Choose a project you're interested in [here](https://github.com/orgs/sfsuacm-space/repositories).**
 Start by exploring projects that align with your interests or technologies you want to improve in. Look through the project’s README, documentation, and contribution guidelines. This helps you pick a project where your work will be useful and supported.
 
