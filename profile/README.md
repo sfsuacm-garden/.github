@@ -20,7 +20,7 @@ The Lovelace Discord Bot currently has 7 issues available for you to work on!
 
 Click the **Fork** button in the project’s GitHub repo to create your own copy. This fork acts as your personal workspace, letting you freely make changes without affecting the original repository. Once forked, you’ll have full control to experiment and build your solution.
 
-![Screenshot 2025-11-21 at 1.27.20 PM.png](How%20To%20Start%20Growing%20Code/Screenshot_2025-11-21_at_1.27.20_PM.png)
+![Screenshot 2025-11-21 at 1.27.20 PM.png](https://sfsu-acm.notion.site/image/attachment%3Ae987a5bc-f2ec-467f-a840-1c678988fbb3%3AScreenshot_2025-11-21_at_1.27.20_PM.png?table=block&id=2b298c26-0514-8089-ba05-ea7e524abf4a&spaceId=28abc2c8-6203-499f-b5d9-a220b4210bf2&width=1420&userId=&cache=v2)
 
 ## **4. Implement your changes**, *committing as you go*.
 
@@ -32,7 +32,7 @@ Go to the original project’s repository and open a new Pull Request (PR) from 
 
 After submitting, engage in any feedback discussions to refine your contribution until it’s ready to merge.
 
-![Screenshot 2025-11-21 at 1.55.00 PM.png](How%20To%20Start%20Growing%20Code/Screenshot_2025-11-21_at_1.55.00_PM.png)
+![Screenshot 2025-11-21 at 1.55.00 PM.png](https://sfsu-acm.notion.site/image/attachment%3Ae987a5bc-f2ec-467f-a840-1c678988fbb3%3AScreenshot_2025-11-21_at_1.27.20_PM.png?table=block&id=2b298c26-0514-8089-ba05-ea7e524abf4a&spaceId=28abc2c8-6203-499f-b5d9-a220b4210bf2&width=1420&userId=&cache=v2)
 
 ## 6. Respond to feedback and iterate.
 
