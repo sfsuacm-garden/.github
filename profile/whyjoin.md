@@ -23,4 +23,5 @@ In the end, you're contributing to something bigger than yourself while also gro
 
 So join us, because growing with others is more fun than doing it alone. 🌱
 
-- odera n
+Sincerely,
+Odera N.
