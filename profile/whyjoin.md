@@ -13,7 +13,7 @@ As a result, students end up building projects with limited imagination and litt
     
 But I want to change the advice.
 
-It's not a new idea, but it's one SFSU students deserve to have her. It’s not about forcing everyone into “aesthetically chaotic vibe-coded projects” or pretending everyone should ship a startup (s/o to my vibe coders and entrepreneur ❤️). It’s about growing a community where students can be **inspired by their peers**, **learn and grow their skills** with the help of others, focus on **process over results**, and **contribute to meaningful projects** that **positively impact** people.
+It's not a new idea, but it's one SFSU students deserve to have here. It’s not about forcing everyone into “aesthetically chaotic vibe-coded projects” or pretending everyone should ship a startup (s/o to my vibe coders and entrepreneur ❤️). It’s about growing a community where students can be **inspired by their peers**, **learn and grow their skills** with the help of others, focus on **process over results**, and **contribute to meaningful projects** that **positively impact** people.
 
 A community garden where we *grow* skills and software. 
 
