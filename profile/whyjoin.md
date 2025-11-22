@@ -1,4 +1,4 @@
-# why join (a brief mini-rant from a fellow mad gardener)**
+# why join (a brief mini-rant from a fellow mad gardener)
     
 I spit the worst, most generic, overused, vague advice that all computer science students hate when it comes to building your resume, CS skills, and getting more involved: 
     
@@ -22,3 +22,5 @@ It will require some vulnerability to 'share your work with class' and have your
 In the end, you're contributing to something bigger than yourself while also growing yourself. You get hands-on experience with the full support of those around you—and that's what makes it worth it.
 
 So join us, because growing with others is more fun than doing it alone. 🌱
+
+- odera n
