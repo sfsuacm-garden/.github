@@ -40,3 +40,5 @@ Once your PR is submitted, maintainers or other contributors may leave comments,
 This process may repeat a few times until the PR is approved and merged. Engaging constructively here not only helps get your contribution merged but also serves as a key learning opportunity for you.
 
 And like that… you are now a planter. good job and happy growing 🌱
+
+If you need help getting started feel free to check out the [ACM Discord](https://discord.gg/tZRQbwD5w) and ping @Gardens for help!
